@@ -50,6 +50,7 @@
 - [Teo Vilenskiy](https://github.com/xxvnt4)
 Harshit Rai
 - [Cecilia Sun] (https://github.com/CeciliaRuiSun)
+- [Gail Dillard](https://github.com/GDTarot)
 - [Shivam Patel](https://github.com/Shivam1111111)
 - [Surya](https://github.com/suryanva)
 - [Joel Tony](https://github.com/jay-tau)
